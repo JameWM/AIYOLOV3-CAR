@@ -1,8 +1,30 @@
-# By : Warit Mahitti
+# By : Warit Mahitti 
+<br />
 
 ```
-I brought a project of a foreigner to build on. Which I don't remember what his name is, but I will give credit later. I have modified the old version of the code to be the newest version in 2022. I added a function to detect distance lines and measure the speed of The car and I have trimmed the model to be more efficient, both saving CPU, GPU and removing unnecessary functions and IOT.
+I brought a project of a foreigner to build on. Which I don't remember what his name is, but I will give credit later.
+I have modified the old version of the code to be the newest version in 2022. I added a function to detect distance lines and measure
+the speed of The car and I have trimmed the model to be more efficient, both saving CPU, GPU and removing unnecessary functions and IOT.
 ```
+<br />
+<br />
+
+![This is an image](https://github.com/JameWM/AIYOLOV3-CAR/blob/main/Img.png)
+
+<br />
+<br />
+
+![This is an image](https://github.com/JameWM/AIYOLOV3-CAR/blob/main/Img1.png)
+
+<br />
+<br />
+
+## Will notice why Car = 2 or Sum = 2 ???
+caused by pressing Stop and then pressing Run again, making it count 2 times. 
+Solve the problem by pressing to run the new program and press Stop when you want to stop using the program.
+![This is an image](https://github.com/JameWM/AIYOLOV3-CAR/blob/main/Img2.png)
+<br />
+<br />
 
 # Multi-type_vehicles_flow_statistics
 According to YOLOv3 and SORT algorithms, counting multi-type vehicles. Implemented by Pytorch.  
